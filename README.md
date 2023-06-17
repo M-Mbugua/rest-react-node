@@ -2,8 +2,16 @@
 
 ## Description
 
-The application is a blogging platform that is written in React for the 
+The application is a blogging platform that uses React for the 
 front-end. It is hosted on an Express server which responds to client requests by retrieving data from MongoDB Atlas. The front-end and back-end communicate using REST API endpoints.
+
+## Technologies used
+
+- React
+- Node
+- MongoDB Atlas
+- Express
+- Typescript
 
 ## Installation
 
